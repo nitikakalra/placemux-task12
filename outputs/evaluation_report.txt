@@ -11,4 +11,4 @@ weighted avg       0.82      0.82      0.82       179
 
 ROC AUC : 0.8432
 
-Average Inference Time : 0.072824 seconds
+Average Inference Time : 0.073113 seconds
