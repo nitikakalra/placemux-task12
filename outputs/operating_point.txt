@@ -1,0 +1,15 @@
+
+Operating Point Report
+======================
+
+Optimal Threshold : 0.44
+
+Precision : 0.7761
+
+Recall : 0.7536
+
+F1 Score : 0.7647
+
+False Positive Rate : 0.1364
+
+False Negative Rate : 0.2464
